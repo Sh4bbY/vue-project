@@ -1,3 +1,0 @@
-@sbialon/vue-project
---------------------
-
